@@ -1,3 +1,3 @@
 ## Счётчик
-
 ![Screenshot](counter.png)
+
